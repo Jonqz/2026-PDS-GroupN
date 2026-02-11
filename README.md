@@ -1,5 +1,5 @@
 # Projects in Data Science (2026)
-Collaborators: Jonas
+Collaborators: Jonas, Klara
 
 #### Overview
 
